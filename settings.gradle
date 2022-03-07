@@ -1,2 +1,3 @@
 include ':app'
 rootProject.name = "bp-fall-2021-quizapp"
+include ':quiz-app'
